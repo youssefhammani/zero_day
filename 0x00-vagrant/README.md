@@ -69,6 +69,7 @@ The abbreviation for World Wide Web is WWW.
 ```python
 def greeting(name):
     print("Hello, " + name)
+```
 
 Term 1
 : Definition 1
